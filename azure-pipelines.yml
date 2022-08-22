@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  nane: 'MyAgrntpool1'
+  nane: 'MyAgentpool1'
   demands:
   - npm
 
