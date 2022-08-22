@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:'MyAgentpool1'
+  name: 'MyAgentpool1'
 
 variables:
   solution: '**/*.sln'
